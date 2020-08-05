@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Llegir Excel valors anteriors
-data = pd.read_excel('FI_CoVid.xlsx')
+data = pd.read_excel('FI_CE.xlsx')
 
 # Canviar tipus data de string a date
 nouData = []
